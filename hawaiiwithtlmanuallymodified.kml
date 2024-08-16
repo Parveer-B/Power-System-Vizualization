@@ -1,0 +1,4115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>PW Case Display Information</name>
+    <description>More Information...
+
+Case display information exported from PowerWorld Simulator.
+To import changes, right click on the placemark or folder you are updating, select "Save Place As", and save as a kml file.</description>
+    <open>1</open>
+    <Folder>
+      <name>Substations</name>
+      <description></description>
+      <visibility>0</visibility>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    7</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>TURTLE</name>
+        <description>Substation ID: 7&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (10)  newbus 138kV&lt;br/&gt; (9)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.813112439819,21.2691140848466,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   10</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>COCONUT</name>
+        <description>Substation ID: 10&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (13)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.782729063891,21.2880035704475,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    5</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>SURF</name>
+        <description>Substation ID: 5&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (7)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.821270063891,21.2889095865203,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAVE</name>
+        <description>Substation ID: 3&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (4)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.843168063891,21.2905346153502,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   14</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>VOLCANO</name>
+        <description>Substation ID: 14&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (18)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.683149063891,21.2919096397464,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   29</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KALAELOA</name>
+        <description>Substation ID: 29&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (35)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.097196439819,21.2990719704644,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   12</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>PALM</name>
+        <description>Substation ID: 12&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (16)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.744670063891,21.3084549334163,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   30</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>COGEN</name>
+        <description>Substation ID: 30&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (36)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.108290063891,21.3090589441413,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    4</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>HONOLULU</name>
+        <description>Substation ID: 4&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (6)  newbus 138kV&lt;br/&gt; (5)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.831755526742,21.3122013589712,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    9</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>LYCHEE</name>
+        <description>Substation ID: 9&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (12)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.805159063891,21.3176020958668,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   13</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIMANALO</name>
+        <description>Substation ID: 13&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (17)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.705325063891,21.3324053589085,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>ALOHA</name>
+        <description>Substation ID: 1&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (2)  newbus 138kV&lt;br/&gt; (1)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.927991260769,21.3399001793452,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   20</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>EWA BEACH</name>
+        <description>Substation ID: 20&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (26)  newbus 138kV&lt;br/&gt; (25)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.012950439819,21.3404101944602,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>FLOWER</name>
+        <description>Substation ID: 2&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (3)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.870675063891,21.3453195885259,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    8</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>MAHALO</name>
+        <description>Substation ID: 8&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (11)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.816064063891,21.3528727228834,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   31</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAHE</name>
+        <description>Substation ID: 31&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (37)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.119521439819,21.3520495395011,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   19</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAPOLEI</name>
+        <description>Substation ID: 19&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (24)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.076607063891,21.3604988585854,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   11</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAILUA</name>
+        <description>Substation ID: 11&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (15)  newbus 138kV&lt;br/&gt; (14)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.748856439819,21.3907396877346,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   17</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>AIEA</name>
+        <description>Substation ID: 17&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (21)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.879353063891,21.4034466236748,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   15</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>PEARL CITY</name>
+        <description>Substation ID: 15&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (19)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.930801485882,21.4147678255994,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   18</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIPAHU</name>
+        <description>Substation ID: 18&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (23)  newbus 138kV&lt;br/&gt; (22)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.974506439819,21.4131253529937,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    6</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KANEOHE</name>
+        <description>Substation ID: 6&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (8)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.818628063891,21.4491274390591,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   27</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIANAE</name>
+        <description>Substation ID: 27&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (33)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.161320063891,21.4660207410173,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   28</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>SCHOFIELD</name>
+        <description>Substation ID: 28&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (34)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.052501063891,21.4758949176175,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   16</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>MILILANI</name>
+        <description>Substation ID: 16&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (20)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.928622063891,21.4799259897357,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   26</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>HAUULA</name>
+        <description>Substation ID: 26&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (32)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.899797063891,21.5551463378355,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   25</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIALUA</name>
+        <description>Substation ID: 25&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (31)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.179552063891,21.5610364435875,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   24</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAHIAWA</name>
+        <description>Substation ID: 24&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (30)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.973785063891,21.5687865827769,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   23</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>LAIE</name>
+        <description>Substation ID: 23&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (29)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.938354063891,21.615876429515,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   22</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>HALEIWA</name>
+        <description>Substation ID: 22&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (28)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.042412063891,21.6187644815032,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   21</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAHUKU</name>
+        <description>Substation ID: 21&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (27)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.973193063891,21.6560901540029,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="SubStyle7f000000">
+      <IconStyle>
+        <scale>0.8</scale>
+        <color>7f000000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>7f000000</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[Number/displayName]</td><td>$[Number]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="SubHiliteStyle">
+      <IconStyle>
+        <scale>2.0</scale>
+        <color>FFFAAFFA</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>FFFAAFFA</color>
+        <scale>2.0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[Number/displayName]</td><td>$[Number]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="SubMap7f000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#SubStyle7f000000</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#SubHiliteStyle</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Transmission Lines</name>
+      <description></description>
+      <visibility>1</visibility>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     5</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  HONOLULU138_138.0 (5) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.919592856606,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.835954728823,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.919592856606,21.3355542299064,0.000000000000000  -157.919592856606,21.3332942853927,0.000000000000000  -157.835954728823,21.318808202403,0.000000000000000  -157.835954728823,21.316548,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     5</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  HONOLULU138_138.0 (5) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.92239232466,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.838754196878,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.92239232466,21.3355542299064,0.000000000000000  -157.92239232466,21.3332942853927,0.000000000000000  -157.838754196878,21.318808202403,0.000000000000000  -157.838754196878,21.316548,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    22</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  WAIPAHU138_138.0 (22) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.919592856606,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.969140792714,21.4087815768468,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.919592856606,21.344246,0.000000000000000  -157.919592856606,21.3465057757551,0.000000000000000  -157.969140792714,21.406522762304,0.000000000000000  -157.969140792714,21.4087815768468,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  EWA BEACH138_138.0 (25) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.930790728823,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.007584792714,21.3360642601339,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.930790728823,21.344246,0.000000000000000  -157.930790728823,21.3465057757551,0.000000000000000  -158.007584792714,21.3338043234777,0.000000000000000  -158.007584792714,21.3360642601339,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  EWA BEACH138_138.0 (25) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.933590196878,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.010384260769,21.3360642601339,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.933590196878,21.344246,0.000000000000000  -157.933590196878,21.3465057757551,0.000000000000000  -158.010384260769,21.3338043234777,0.000000000000000  -158.010384260769,21.3360642601339,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    35</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  KALAELOA138_138.0 (35) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.936389664932,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.094630260769,21.303419,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.936389664932,21.3355542299064,0.000000000000000  -157.936389664932,21.3332942853927,0.000000000000000  -158.094630260769,21.3056794044518,0.000000000000000  -158.094630260769,21.303419,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     1</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    35</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line ALOHA138_138.0 (1)  TO  KALAELOA138_138.0 (35) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.939189132986,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.097429728823,21.303419,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.939189132986,21.3355542299064,0.000000000000000  -157.939189132986,21.3332942853927,0.000000000000000  -158.097429728823,21.3056794044518,0.000000000000000  -158.097429728823,21.303419,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     5</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     9</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line HONOLULU138_138.0 (5)  TO  TURTLE138_138.0 (9) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.844353132986,21.3078545892936,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.821744132986,21.273462,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.844353132986,21.3078545892936,0.000000000000000  -157.844353132986,21.3055942183091,0.000000000000000  -157.821744132986,21.2757228650309,0.000000000000000  -157.821744132986,21.273462,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     5</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    14</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line HONOLULU138_138.0 (5)  TO  KAILUA138_138.0 (14) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.824756856606,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.754688664932,21.3863952464376,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.824756856606,21.316548,0.000000000000000  -157.824756856606,21.318808202403,0.000000000000000  -157.754688664932,21.3841360860598,0.000000000000000  -157.754688664932,21.3863952464376,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     9</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    14</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line TURTLE138_138.0 (9)  TO  KAILUA138_138.0 (14) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.816145196878,21.273462,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.749089728823,21.3863952464376,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.816145196878,21.273462,0.000000000000000  -157.816145196878,21.2757228650309,0.000000000000000  -157.749089728823,21.3841360860598,0.000000000000000  -157.749089728823,21.3863952464376,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    22</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line WAIPAHU138_138.0 (22)  TO  EWA BEACH138_138.0 (25) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.980338664932,21.4087815768468,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.010384260769,21.344756,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.980338664932,21.4087815768468,0.000000000000000  -157.980338664932,21.406522762304,0.000000000000000  -158.010384260769,21.3470157678944,0.000000000000000  -158.010384260769,21.344756,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    22</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    37</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line WAIPAHU138_138.0 (22)  TO  KAHE138_138.0 (37) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.983138132986,21.4087815768468,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.128153132986,21.356395,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.983138132986,21.4087815768468,0.000000000000000  -157.983138132986,21.406522762304,0.000000000000000  -158.128153132986,21.3586545884507,0.000000000000000  -158.128153132986,21.356395,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    35</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line EWA BEACH138_138.0 (25)  TO  KALAELOA138_138.0 (35) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.018782664932,21.3360642601339,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.100229196878,21.303419,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.018782664932,21.3360642601339,0.000000000000000  -158.018782664932,21.3338043234777,0.000000000000000  -158.100229196878,21.3056794044518,0.000000000000000  -158.100229196878,21.303419,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    35</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line EWA BEACH138_138.0 (25)  TO  KALAELOA138_138.0 (35) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.021582132986,21.3360642601339,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.103028664932,21.303419,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.021582132986,21.3360642601339,0.000000000000000  -158.021582132986,21.3338043234777,0.000000000000000  -158.103028664932,21.3056794044518,0.000000000000000  -158.103028664932,21.303419,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    37</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line EWA BEACH138_138.0 (25)  TO  KAHE138_138.0 (37) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.018782664932,21.344756,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.122554196878,21.3477039501591,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.018782664932,21.344756,0.000000000000000  -158.018782664932,21.3470157678944,0.000000000000000  -158.122554196878,21.3454441928723,0.000000000000000  -158.122554196878,21.3477039501591,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    25</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    37</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line EWA BEACH138_138.0 (25)  TO  KAHE138_138.0 (37) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.021582132986,21.344756,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.125353664932,21.3477039501591,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.021582132986,21.344756,0.000000000000000  -158.021582132986,21.3470157678944,0.000000000000000  -158.125353664932,21.3454441928723,0.000000000000000  -158.125353664932,21.3477039501591,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    35</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    37</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0000002</styleUrl>
+        <name>Line KALAELOA138_138.0 (35)  TO  KAHE138_138.0 (37) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.105828132986,21.303419,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.128153132986,21.3477039501591,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.105828132986,21.303419,0.000000000000000  -158.105828132986,21.3056794044518,0.000000000000000  -158.128153132986,21.3454441928723,0.000000000000000  -158.128153132986,21.3477039501591,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     4</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  WAVE69_ 69.0 (4) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.933590196878,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.848300421991,21.293143,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.933590196878,21.3355542299064,0.000000000000000  -157.933590196878,21.3332942853927,0.000000000000000  -157.848300421991,21.2945341195775,0.000000000000000  -157.848300421991,21.293143,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  HONOLULU69_ 69.0 (6) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.925191792714,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.841553664932,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.925191792714,21.3355542299064,0.000000000000000  -157.925191792714,21.3332942853927,0.000000000000000  -157.841553664932,21.318808202403,0.000000000000000  -157.841553664932,21.316548,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  HONOLULU69_ 69.0 (6) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.927991260769,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.844353132986,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.927991260769,21.3355542299064,0.000000000000000  -157.927991260769,21.3332942853927,0.000000000000000  -157.844353132986,21.318808202403,0.000000000000000  -157.844353132986,21.316548,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  SURF69_ 69.0 (7) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.930790728823,21.3355542299064,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.826402421991,21.291518,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.930790728823,21.3355542299064,0.000000000000000  -157.930790728823,21.3332942853927,0.000000000000000  -157.826402421991,21.2929091349546,0.000000000000000  -157.826402421991,21.291518,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    21</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  AIEA69_ 69.0 (21) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.916793388551,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.884485421991,21.4008402008761,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.916793388551,21.344246,0.000000000000000  -157.916793388551,21.3465057757551,0.000000000000000  -157.884485421991,21.399450089695,0.000000000000000  -157.884485421991,21.4008402008761,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  WAIPAHU69_ 69.0 (23) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.92239232466,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.971940260769,21.4087815768468,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.92239232466,21.344246,0.000000000000000  -157.92239232466,21.3465057757551,0.000000000000000  -157.971940260769,21.406522762304,0.000000000000000  -157.971940260769,21.4087815768468,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  WAIPAHU69_ 69.0 (23) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.925191792714,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.974739728823,21.4087815768468,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.925191792714,21.344246,0.000000000000000  -157.925191792714,21.3465057757551,0.000000000000000  -157.974739728823,21.406522762304,0.000000000000000  -157.974739728823,21.4087815768468,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  WAIPAHU69_ 69.0 (23) CKT 3</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.927991260769,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.977539196878,21.4087815768468,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.927991260769,21.344246,0.000000000000000  -157.927991260769,21.3465057757551,0.000000000000000  -157.977539196878,21.406522762304,0.000000000000000  -157.977539196878,21.4087815768468,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    26</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  EWA BEACH69_ 69.0 (26) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.936389664932,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.013183728823,21.3360642601339,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.936389664932,21.344246,0.000000000000000  -157.936389664932,21.3465057757551,0.000000000000000  -158.013183728823,21.3338043234777,0.000000000000000  -158.013183728823,21.3360642601339,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     2</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    26</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line ALOHA69_ 69.0 (2)  TO  EWA BEACH69_ 69.0 (26) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.939189132986,21.344246,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.015983196878,21.3360642601339,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.939189132986,21.344246,0.000000000000000  -157.939189132986,21.3465057757551,0.000000000000000  -158.015983196878,21.3338043234777,0.000000000000000  -158.015983196878,21.3360642601339,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  HONOLULU69_ 69.0 (6) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.873941109955,21.34271213068,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.830355792714,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.873941109955,21.34271213068,0.000000000000000  -157.873941109955,21.3413214675156,0.000000000000000  -157.830355792714,21.318808202403,0.000000000000000  -157.830355792714,21.316548,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  HONOLULU69_ 69.0 (6) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.875807421991,21.34271213068,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.833155260769,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.875807421991,21.34271213068,0.000000000000000  -157.875807421991,21.3413214675156,0.000000000000000  -157.833155260769,21.318808202403,0.000000000000000  -157.833155260769,21.316548,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    16</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  PALM69_ 69.0 (16) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.872074797918,21.34271213068,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.749802421991,21.311063,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.872074797918,21.34271213068,0.000000000000000  -157.872074797918,21.3413214675156,0.000000000000000  -157.749802421991,21.3124539499294,0.000000000000000  -157.749802421991,21.311063,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  PEARL CITY69_ 69.0 (19) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.872074797918,21.347927,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.925202549773,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.872074797918,21.347927,0.000000000000000  -157.872074797918,21.3493176005111,0.000000000000000  -157.925202549773,21.4107716011986,0.000000000000000  -157.925202549773,21.4121616047053,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  PEARL CITY69_ 69.0 (19) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.873941109955,21.347927,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.92706886181,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.873941109955,21.347927,0.000000000000000  -157.873941109955,21.3493176005111,0.000000000000000  -157.92706886181,21.4107716011986,0.000000000000000  -157.92706886181,21.4121616047053,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  PEARL CITY69_ 69.0 (19) CKT 3</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.875807421991,21.347927,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.928935173846,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.875807421991,21.347927,0.000000000000000  -157.875807421991,21.3493176005111,0.000000000000000  -157.928935173846,21.4107716011986,0.000000000000000  -157.928935173846,21.4121616047053,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     3</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    21</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line FLOWER69_ 69.0 (3)  TO  AIEA69_ 69.0 (21) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.870208485882,21.347927,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.882619109955,21.4008402008761,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.870208485882,21.347927,0.000000000000000  -157.870208485882,21.3493176005111,0.000000000000000  -157.882619109955,21.399450089695,0.000000000000000  -157.882619109955,21.4008402008761,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     4</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    13</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAVE69_ 69.0 (4)  TO  COCONUT69_ 69.0 (13) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.848300421991,21.2879261844249,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.782262485882,21.290612,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.848300421991,21.2879261844249,0.000000000000000  -157.848300421991,21.286535002324,0.000000000000000  -157.782262485882,21.2920031435274,0.000000000000000  -157.782262485882,21.290612,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  HONOLULU69_ 69.0 (6) CKT 3</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.820803485882,21.291518,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.835954728823,21.3078545892936,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.820803485882,21.291518,0.000000000000000  -157.820803485882,21.2929091349546,0.000000000000000  -157.835954728823,21.3055942183091,0.000000000000000  -157.835954728823,21.3078545892936,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  HONOLULU69_ 69.0 (6) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.822669797918,21.291518,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.838754196878,21.3078545892936,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.822669797918,21.291518,0.000000000000000  -157.822669797918,21.2929091349546,0.000000000000000  -157.838754196878,21.3055942183091,0.000000000000000  -157.838754196878,21.3078545892936,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    11</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line HONOLULU69_ 69.0 (6)  TO  MAHALO69_ 69.0 (11) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.82755632466,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.821196421991,21.3502653993818,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.82755632466,21.316548,0.000000000000000  -157.82755632466,21.318808202403,0.000000000000000  -157.821196421991,21.3488748078621,0.000000000000000  -157.821196421991,21.3502653993818,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    12</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line HONOLULU69_ 69.0 (6)  TO  LYCHEE69_ 69.0 (12) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.819157920497,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.808425109955,21.3149941454105,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.819157920497,21.316548,0.000000000000000  -157.819157920497,21.318808202403,0.000000000000000  -157.808425109955,21.3136032195403,0.000000000000000  -157.808425109955,21.3149941454105,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    12</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line HONOLULU69_ 69.0 (6)  TO  LYCHEE69_ 69.0 (12) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.821957388551,21.316548,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.810291421991,21.3149941454105,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.821957388551,21.316548,0.000000000000000  -157.821957388551,21.318808202403,0.000000000000000  -157.810291421991,21.3136032195403,0.000000000000000  -157.810291421991,21.3149941454105,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    10</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  TURTLE69_ 69.0 (10) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.826402421991,21.286301126768,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.818944664932,21.273462,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.826402421991,21.286301126768,0.000000000000000  -157.826402421991,21.2849099292939,0.000000000000000  -157.818944664932,21.2757228650309,0.000000000000000  -157.818944664932,21.273462,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>     6</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  HONOLULU69_ 69.0 (6) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.824536109955,21.291518,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.841553664932,21.3078545892936,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.824536109955,21.291518,0.000000000000000  -157.824536109955,21.2929091349546,0.000000000000000  -157.841553664932,21.3055942183091,0.000000000000000  -157.841553664932,21.3078545892936,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    13</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  COCONUT69_ 69.0 (13) CKT 3</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.820803485882,21.286301126768,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.784128797918,21.290612,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.820803485882,21.286301126768,0.000000000000000  -157.820803485882,21.2849099292939,0.000000000000000  -157.784128797918,21.2920031435274,0.000000000000000  -157.784128797918,21.290612,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    13</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  COCONUT69_ 69.0 (13) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.822669797918,21.286301126768,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.785995109955,21.290612,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.822669797918,21.286301126768,0.000000000000000  -157.822669797918,21.2849099292939,0.000000000000000  -157.785995109955,21.2920031435274,0.000000000000000  -157.785995109955,21.290612,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     7</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    13</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line SURF69_ 69.0 (7)  TO  COCONUT69_ 69.0 (13) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.824536109955,21.286301126768,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.787861421991,21.290612,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.824536109955,21.286301126768,0.000000000000000  -157.824536109955,21.2849099292939,0.000000000000000  -157.787861421991,21.2920031435274,0.000000000000000  -157.787861421991,21.290612,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     8</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    15</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KANEOHE69_ 69.0 (8)  TO  KAILUA69_ 69.0 (15) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.820027797918,21.4465218315647,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.757488132986,21.395084,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.820027797918,21.4465218315647,0.000000000000000  -157.820027797918,21.4451321551799,0.000000000000000  -157.757488132986,21.3973429912948,0.000000000000000  -157.757488132986,21.395084,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     8</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KANEOHE69_ 69.0 (8)  TO  PEARL CITY69_ 69.0 (19) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.821894109955,21.4465218315647,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.934534109955,21.417374,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.821894109955,21.4465218315647,0.000000000000000  -157.821894109955,21.4451321551799,0.000000000000000  -157.934534109955,21.4187639406888,0.000000000000000  -157.934534109955,21.417374,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>     8</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KANEOHE69_ 69.0 (8)  TO  PEARL CITY69_ 69.0 (19) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.823760421991,21.4465218315647,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.936400421991,21.417374,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.823760421991,21.4465218315647,0.000000000000000  -157.823760421991,21.4451321551799,0.000000000000000  -157.936400421991,21.4187639406888,0.000000000000000  -157.936400421991,21.417374,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    28</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    31</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value> 1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line HALEIWA69_ 69.0 (28)  TO  WAIALUA69_ 69.0 (31) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.047544421991,21.616161916157,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.184684421991,21.56364,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.047544421991,21.616161916157,0.000000000000000  -158.047544421991,21.6147738621303,0.000000000000000  -158.184684421991,21.565028544324,0.000000000000000  -158.184684421991,21.56364,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    11</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    13</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line MAHALO69_ 69.0 (11)  TO  COCONUT69_ 69.0 (13) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.819330109955,21.3502653993818,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.780396173846,21.290612,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.819330109955,21.3502653993818,0.000000000000000  -157.819330109955,21.3488748078621,0.000000000000000  -157.780396173846,21.2920031435274,0.000000000000000  -157.780396173846,21.290612,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    11</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    15</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line MAHALO69_ 69.0 (11)  TO  KAILUA69_ 69.0 (15) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.821196421991,21.35548,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.757488132986,21.3863952464376,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.821196421991,21.35548,0.000000000000000  -157.821196421991,21.3568705288483,0.000000000000000  -157.757488132986,21.3841360860598,0.000000000000000  -157.757488132986,21.3863952464376,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    12</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    15</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line LYCHEE69_ 69.0 (12)  TO  KAILUA69_ 69.0 (15) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.810291421991,21.32021,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.751889196878,21.3863952464376,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.810291421991,21.32021,0.000000000000000  -157.810291421991,21.3216008632825,0.000000000000000  -157.751889196878,21.3841360860598,0.000000000000000  -157.751889196878,21.3863952464376,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    12</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    17</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line LYCHEE69_ 69.0 (12)  TO  WAIMANALO69_ 69.0 (17) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.808425109955,21.32021,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.710457421991,21.329797671468,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.808425109955,21.32021,0.000000000000000  -157.808425109955,21.3216008632825,0.000000000000000  -157.710457421991,21.3284068858623,0.000000000000000  -157.710457421991,21.329797671468,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    13</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    16</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line COCONUT69_ 69.0 (13)  TO  PALM69_ 69.0 (16) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.77852986181,21.290612,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.749802421991,21.3058468205256,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.77852986181,21.290612,0.000000000000000  -157.77852986181,21.2920031435274,0.000000000000000  -157.749802421991,21.3044558080303,0.000000000000000  -157.749802421991,21.3058468205256,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    16</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    18</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line PALM69_ 69.0 (16)  TO  VOLCANO69_ 69.0 (18) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.747936109955,21.3058468205256,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.688281421991,21.294518,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.747936109955,21.3058468205256,0.000000000000000  -157.747936109955,21.3044558080303,0.000000000000000  -157.688281421991,21.2959091065652,0.000000000000000  -157.688281421991,21.294518,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    17</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    18</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAIMANALO69_ 69.0 (17)  TO  VOLCANO69_ 69.0 (18) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.708591109955,21.329797671468,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.686415109955,21.294518,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.708591109955,21.329797671468,0.000000000000000  -157.708591109955,21.3284068858623,0.000000000000000  -157.686415109955,21.2959091065652,0.000000000000000  -157.686415109955,21.294518,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line PEARL CITY69_ 69.0 (19)  TO  WAIPAHU69_ 69.0 (23) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.930801485882,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.96634132466,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.930801485882,21.4121616047053,0.000000000000000  -157.930801485882,21.4107716011986,0.000000000000000  -157.96634132466,21.4197276453171,0.000000000000000  -157.96634132466,21.417469,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line PEARL CITY69_ 69.0 (19)  TO  WAIPAHU69_ 69.0 (23) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.932667797918,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.969140792714,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.932667797918,21.4121616047053,0.000000000000000  -157.932667797918,21.4107716011986,0.000000000000000  -157.969140792714,21.4197276453171,0.000000000000000  -157.969140792714,21.417469,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line PEARL CITY69_ 69.0 (19)  TO  WAIPAHU69_ 69.0 (23) CKT 3</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.934534109955,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.971940260769,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.934534109955,21.4121616047053,0.000000000000000  -157.934534109955,21.4107716011986,0.000000000000000  -157.971940260769,21.4197276453171,0.000000000000000  -157.971940260769,21.417469,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    19</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>4</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line PEARL CITY69_ 69.0 (19)  TO  WAIPAHU69_ 69.0 (23) CKT 4</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.936400421991,21.4121616047053,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.974739728823,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.936400421991,21.4121616047053,0.000000000000000  -157.936400421991,21.4107716011986,0.000000000000000  -157.974739728823,21.4197276453171,0.000000000000000  -157.974739728823,21.417469,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    20</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line MILILANI69_ 69.0 (20)  TO  WAIPAHU69_ 69.0 (23) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.933754421991,21.477320932864,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.977539196878,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.933754421991,21.477320932864,0.000000000000000  -157.933754421991,21.4759315501226,0.000000000000000  -157.977539196878,21.4197276453171,0.000000000000000  -157.977539196878,21.417469,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    20</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    30</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line MILILANI69_ 69.0 (20)  TO  WAHIAWA69_ 69.0 (30) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.933754421991,21.482531,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.978917421991,21.5661831187913,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.933754421991,21.482531,0.000000000000000  -157.933754421991,21.4839203197695,0.000000000000000  -157.978917421991,21.5647945855258,0.000000000000000  -157.978917421991,21.5661831187913,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    20</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    32</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line MILILANI69_ 69.0 (20)  TO  HAUULA69_ 69.0 (32) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.931888109955,21.482531,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.904929421991,21.5525426289324,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.931888109955,21.482531,0.000000000000000  -157.931888109955,21.4839203197695,0.000000000000000  -157.904929421991,21.551153965054,0.000000000000000  -157.904929421991,21.5525426289324,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    34</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAIPAHU69_ 69.0 (23)  TO  SCHOFIELD69_ 69.0 (34) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.980338664932,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.052034485882,21.4732897886346,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.980338664932,21.417469,0.000000000000000  -157.980338664932,21.4197276453171,0.000000000000000  -158.052034485882,21.4719003674369,0.000000000000000  -158.052034485882,21.4732897886346,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    23</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    34</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAIPAHU69_ 69.0 (23)  TO  SCHOFIELD69_ 69.0 (34) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.983138132986,21.417469,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.053900797918,21.4732897886346,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.983138132986,21.417469,0.000000000000000  -157.983138132986,21.4197276453171,0.000000000000000  -158.053900797918,21.4719003674369,0.000000000000000  -158.053900797918,21.4732897886346,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    24</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    26</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KAPOLEI69_ 69.0 (24)  TO  EWA BEACH69_ 69.0 (26) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.078006797918,21.3578916707725,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.013183728823,21.344756,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.078006797918,21.3578916707725,0.000000000000000  -158.078006797918,21.3565011516146,0.000000000000000  -158.013183728823,21.3470157678944,0.000000000000000  -158.013183728823,21.344756,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    24</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    26</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KAPOLEI69_ 69.0 (24)  TO  EWA BEACH69_ 69.0 (26) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.079873109955,21.3578916707725,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.015983196878,21.344756,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.079873109955,21.3578916707725,0.000000000000000  -158.079873109955,21.3565011516146,0.000000000000000  -158.015983196878,21.3470157678944,0.000000000000000  -158.015983196878,21.344756,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    24</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    33</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KAPOLEI69_ 69.0 (24)  TO  WAIANAE69_ 69.0 (33) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.081739421991,21.363106,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.166452421991,21.4634154354515,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.081739421991,21.363106,0.000000000000000  -158.081739421991,21.3644964564685,0.000000000000000  -158.166452421991,21.4620259200833,0.000000000000000  -158.166452421991,21.4634154354515,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    24</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    36</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KAPOLEI69_ 69.0 (24)  TO  COGEN69_ 69.0 (36) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.081739421991,21.3578916707725,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.113422421991,21.311667,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.081739421991,21.3578916707725,0.000000000000000  -158.081739421991,21.3565011516146,0.000000000000000  -158.113422421991,21.3130579442089,0.000000000000000  -158.113422421991,21.311667,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    27</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    29</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line KAHUKU69_ 69.0 (27)  TO  LAIE69_ 69.0 (29) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.978325421991,21.6534882610915,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.943486421991,21.618479,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.978325421991,21.6534882610915,0.000000000000000  -157.978325421991,21.6521005656703,0.000000000000000  -157.943486421991,21.619867018457,0.000000000000000  -157.943486421991,21.618479,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    28</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    30</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line HALEIWA69_ 69.0 (28)  TO  WAHIAWA69_ 69.0 (30) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.043811797918,21.616161916157,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.977051109955,21.57139,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.043811797918,21.616161916157,0.000000000000000  -158.043811797918,21.6147738621303,0.000000000000000  -157.977051109955,21.5727784700841,0.000000000000000  -157.977051109955,21.57139,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    28</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    30</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line HALEIWA69_ 69.0 (28)  TO  WAHIAWA69_ 69.0 (30) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.045678109955,21.616161916157,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.978917421991,21.57139,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.045678109955,21.616161916157,0.000000000000000  -158.045678109955,21.6147738621303,0.000000000000000  -157.978917421991,21.5727784700841,0.000000000000000  -157.978917421991,21.57139,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    29</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    30</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line LAIE69_ 69.0 (29)  TO  WAHIAWA69_ 69.0 (30) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.943486421991,21.6132738121855,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.975184797918,21.57139,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.943486421991,21.6132738121855,0.000000000000000  -157.943486421991,21.6118857304366,0.000000000000000  -157.975184797918,21.5727784700841,0.000000000000000  -157.975184797918,21.57139,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    29</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    32</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line LAIE69_ 69.0 (29)  TO  HAUULA69_ 69.0 (32) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-157.941620109955,21.6132738121855,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-157.904929421991,21.55775,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-157.941620109955,21.6132738121855,0.000000000000000  -157.941620109955,21.6118857304366,0.000000000000000  -157.904929421991,21.5591386007292,0.000000000000000  -157.904929421991,21.55775,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    31</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    33</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAIALUA69_ 69.0 (31)  TO  WAIANAE69_ 69.0 (33) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.184684421991,21.5584328404261,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.166452421991,21.468626,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.184684421991,21.5584328404261,0.000000000000000  -158.184684421991,21.5570442329392,0.000000000000000  -158.166452421991,21.4700154524292,0.000000000000000  -158.166452421991,21.468626,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    33</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    34</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAIANAE69_ 69.0 (33)  TO  SCHOFIELD69_ 69.0 (34) CKT 1</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.162719797918,21.468626,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.055767109955,21.4732897886346,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.162719797918,21.468626,0.000000000000000  -158.162719797918,21.4700154524292,0.000000000000000  -158.055767109955,21.4719003674369,0.000000000000000  -158.055767109955,21.4732897886346,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Line</value>
+          </Data>
+          <Data name="BusNumFrom">
+            <displayName>
+              <![CDATA[Number at From Bus]]>
+            </displayName>
+            <value>    33</value>
+          </Data>
+          <Data name="BusNumTo">
+            <displayName>
+              <![CDATA[Number at To Bus]]>
+            </displayName>
+            <value>    34</value>
+          </Data>
+          <Data name="Circuit">
+            <displayName>
+              <![CDATA[Circuit]]>
+            </displayName>
+            <value>2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#LineMap7f0080001</styleUrl>
+        <name>Line WAIANAE69_ 69.0 (33)  TO  SCHOFIELD69_ 69.0 (34) CKT 2</name>
+        <description>Branch&lt;br/&gt;</description>
+        <MultiGeometry>
+          <Point>
+            <coordinates>-158.164586109955,21.468626,0.000000000000000</coordinates>
+          </Point>
+          <Point>
+            <coordinates>-158.057633421991,21.4732897886346,0.000000000000000</coordinates>
+          </Point>
+          <LineString>
+            <extrude>1</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-158.164586109955,21.468626,0.000000000000000  -158.164586109955,21.4700154524292,0.000000000000000  -158.057633421991,21.4719003674369,0.000000000000000  -158.057633421991,21.4732897886346,0.000000000000000  </coordinates>
+          </LineString>
+        </MultiGeometry>
+      </Placemark>
+    </Folder>
+    <Style id="LineStyle7f0000002">
+      <IconStyle>
+        <scale>0.0001</scale>
+        <color>7f000000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>00000000</color>
+        <scale>2</scale>
+      </LabelStyle>
+      <LineStyle>
+        <width>6</width>
+        <color>7f000000</color>
+      </LineStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[BusNumFrom/displayName]</td><td>$[BusNumFrom]</td></tr><tr><td>$[BusNumTo/displayName]</td><td>$[BusNumTo]</td></tr><tr><td>$[Circuit/displayName]</td><td>$[Circuit]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="LineHiliteStyle">
+      <IconStyle>
+        <scale>1.5</scale>
+        <color>FFFFFFFF</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>FFFFFFFF</color>
+        <scale>2</scale>
+      </LabelStyle>
+      <LineStyle>
+        <width>4.5</width>
+        <color>FFFFFFFF</color>
+      </LineStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[BusNumFrom/displayName]</td><td>$[BusNumFrom]</td></tr><tr><td>$[BusNumTo/displayName]</td><td>$[BusNumTo]</td></tr><tr><td>$[Circuit/displayName]</td><td>$[Circuit]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="LineMap7f0000002">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#LineStyle7f0000002</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#LineHiliteStyle</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="LineStyle7f0080001">
+      <IconStyle>
+        <scale>0.0001</scale>
+        <color>7f008000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/cross-hairs.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>7f008000</color>
+        <scale>0.0001</scale>
+      </LabelStyle>
+      <LineStyle>
+        <width>5</width>
+        <color>7f008000</color>
+      </LineStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[BusNumFrom/displayName]</td><td>$[BusNumFrom]</td></tr><tr><td>$[BusNumTo/displayName]</td><td>$[BusNumTo]</td></tr><tr><td>$[Circuit/displayName]</td><td>$[Circuit]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="LineMap7f0080001">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#LineStyle7f0080001</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>LineHiliteStyle</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>

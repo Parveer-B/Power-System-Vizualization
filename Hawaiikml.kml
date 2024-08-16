@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml>
+  <Document>
+    <name>PW Case Display Information</name>
+    <description>More Information...
+
+Case display information exported from PowerWorld Simulator.
+To import changes, right click on the placemark or folder you are updating, select "Save Place As", and save as a kml file.</description>
+    <open>1</open>
+    <Folder>
+      <name>Substations</name>
+      <description></description>
+      <visibility>0</visibility>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    7</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>TURTLE</name>
+        <description>Substation ID: 7&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (10)  newbus 138kV&lt;br/&gt; (9)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.813112439819,21.2691140848466,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   10</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>COCONUT</name>
+        <description>Substation ID: 10&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (13)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.782729063891,21.2880035704475,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    5</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>SURF</name>
+        <description>Substation ID: 5&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (7)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.821270063891,21.2889095865203,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    3</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAVE</name>
+        <description>Substation ID: 3&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (4)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.843168063891,21.2905346153502,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   14</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>VOLCANO</name>
+        <description>Substation ID: 14&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (18)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.683149063891,21.2919096397464,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   29</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KALAELOA</name>
+        <description>Substation ID: 29&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (35)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.097196439819,21.2990719704644,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   12</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>PALM</name>
+        <description>Substation ID: 12&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (16)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.744670063891,21.3084549334163,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   30</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>COGEN</name>
+        <description>Substation ID: 30&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (36)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.108290063891,21.3090589441413,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    4</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>HONOLULU</name>
+        <description>Substation ID: 4&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (6)  newbus 138kV&lt;br/&gt; (5)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.831755526742,21.3122013589712,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    9</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>LYCHEE</name>
+        <description>Substation ID: 9&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (12)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.805159063891,21.3176020958668,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   13</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIMANALO</name>
+        <description>Substation ID: 13&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (17)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.705325063891,21.3324053589085,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    1</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>ALOHA</name>
+        <description>Substation ID: 1&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (2)  newbus 138kV&lt;br/&gt; (1)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.927991260769,21.3399001793452,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   20</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>EWA BEACH</name>
+        <description>Substation ID: 20&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (26)  newbus 138kV&lt;br/&gt; (25)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.012950439819,21.3404101944602,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    2</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>FLOWER</name>
+        <description>Substation ID: 2&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (3)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.870675063891,21.3453195885259,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    8</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>MAHALO</name>
+        <description>Substation ID: 8&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (11)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.816064063891,21.3528727228834,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   31</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAHE</name>
+        <description>Substation ID: 31&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (37)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.119521439819,21.3520495395011,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   19</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAPOLEI</name>
+        <description>Substation ID: 19&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (24)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.076607063891,21.3604988585854,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   11</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAILUA</name>
+        <description>Substation ID: 11&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (15)  newbus 138kV&lt;br/&gt; (14)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.748856439819,21.3907396877346,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   17</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>AIEA</name>
+        <description>Substation ID: 17&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (21)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.879353063891,21.4034466236748,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   15</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>PEARL CITY</name>
+        <description>Substation ID: 15&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (19)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.930801485882,21.4147678255994,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   18</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIPAHU</name>
+        <description>Substation ID: 18&lt;br/&gt;Number of buses: 2&lt;br/&gt;Buses:  (23)  newbus 138kV&lt;br/&gt; (22)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.974506439819,21.4131253529937,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>    6</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KANEOHE</name>
+        <description>Substation ID: 6&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (8)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.818628063891,21.4491274390591,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   27</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIANAE</name>
+        <description>Substation ID: 27&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (33)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.161320063891,21.4660207410173,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   28</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>SCHOFIELD</name>
+        <description>Substation ID: 28&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (34)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.052501063891,21.4758949176175,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   16</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>MILILANI</name>
+        <description>Substation ID: 16&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (20)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.928622063891,21.4799259897357,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   26</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>HAUULA</name>
+        <description>Substation ID: 26&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (32)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.899797063891,21.5551463378355,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   25</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAIALUA</name>
+        <description>Substation ID: 25&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (31)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.179552063891,21.5610364435875,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   24</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>WAHIAWA</name>
+        <description>Substation ID: 24&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (30)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.973785063891,21.5687865827769,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   23</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>LAIE</name>
+        <description>Substation ID: 23&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (29)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.938354063891,21.615876429515,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   22</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>HALEIWA</name>
+        <description>Substation ID: 22&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (28)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-158.042412063891,21.6187644815032,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <ExtendedData>
+          <Data name="PWObjectType">
+            <displayName>Object Type</displayName>
+            <value>Sub</value>
+          </Data>
+          <Data name="Number">
+            <displayName>
+              <![CDATA[Sub Num]]>
+            </displayName>
+            <value>   21</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#SubMap7f000000</styleUrl>
+        <name>KAHUKU</name>
+        <description>Substation ID: 21&lt;br/&gt;Number of buses: 1&lt;br/&gt;Buses:  (27)  newbus 138kV&lt;br/&gt;</description>
+        <visibility>0</visibility>
+        <Point>
+          <coordinates>-157.973193063891,21.6560901540029,0.000000000000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="SubStyle7f000000">
+      <IconStyle>
+        <scale>0.8</scale>
+        <color>7f000000</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>7f000000</color>
+        <scale>0.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[Number/displayName]</td><td>$[Number]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="SubHiliteStyle">
+      <IconStyle>
+        <scale>2.0</scale>
+        <color>FFFAAFFA</color>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>FFFAAFFA</color>
+        <scale>2.0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>
+          <![CDATA[<b><font color="#CC0000" size="+1">$[name]</font></b><br/><br/><b><u>Description</u></b><br/>$[description]</font><br/><b><u>Fields</u></b><br/><table border="1" padding="3" width="200"><tr><td>$[PWObjectType/displayName]</td><td>$[PWObjectType]</td></tr><tr><td>$[Number/displayName]</td><td>$[Number]</td></tr></table><br/>$[geDirections]]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="SubMap7f000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#SubStyle7f000000</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#SubHiliteStyle</styleUrl>
+      </Pair>
+    </StyleMap>
+  </Document>
+</kml>
